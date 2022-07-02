@@ -5,8 +5,10 @@
 - 😄 Pronomes: ele/dele
 
 <div align="center" style="display: inline_block">
+  <a href="https://github.com/rafael-rosa1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-rosa1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-rosa1&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 <div align="center" style="display: inline_block"><br>
